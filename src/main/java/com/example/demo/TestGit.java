@@ -8,6 +8,7 @@ package com.example.demo;
  */
 public class TestGit {
     public void sendMessage(String id){
+        int a=1;
         return;
     }
 }
